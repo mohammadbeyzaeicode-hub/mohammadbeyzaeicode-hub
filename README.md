@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Mohammad Beyzaei 👋
 
 I'm an AI-focused developer interested in building intelligent systems and understanding the technical foundations behind them.
 
