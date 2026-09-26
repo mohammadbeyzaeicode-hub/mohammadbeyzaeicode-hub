@@ -5,9 +5,12 @@
 
 ## About Me
 
-<small>I'm an AI-focused developer interested in building intelligent systems and understanding the technical foundations behind them.</small>
+I'm an AI-focused developer interested in building intelligent systems and understanding the technical foundations behind them.
 
 My current focus is on **AI Agents, Computer Vision, Deep Learning, and Machine Learning**.
+
+I previously worked in **backend development with ASP.NET**, and have since shifted my focus toward AI, bringing my software engineering and backend experience into the systems I build.
+current focus is on **AI Agents, Computer Vision, Deep Learning, and Machine Learning**.
 
 <br>
 
